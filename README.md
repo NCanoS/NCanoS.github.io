@@ -1,2 +1,2 @@
 # NCanoS.github.io
-Landin Page URL
+Landing Page URL
